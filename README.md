@@ -1,4 +1,4 @@
-# Horiseon  Marketing Services
+# Horiseon Marketing Services
 
 ## User Story
 
