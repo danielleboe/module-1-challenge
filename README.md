@@ -1,4 +1,7 @@
-# Horiseon Marketing Services
+# Horiseon Marketing Services webpage
+
+## Description
+Includes updates to the page for accessibility. Specifics are listed under User Story and Acceptance Criteria. 
 
 ## User Story
 
@@ -24,3 +27,14 @@ THEN they fall in sequential order
 
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+## Usage
+Page is to be used for marketing purposes.
+
+## Credits
+
+N/A
+
+## License
+
+Please refer to the LICENSE in the repo.
