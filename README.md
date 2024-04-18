@@ -1,7 +1,7 @@
 # Horiseon Marketing Services webpage
 
 ## Description
-Includes updates to the page for accessibility. Specifics are listed under User Story and Acceptance Criteria. 
+Includes updates to the page for accessibility. Specifics are listed under User Story and Acceptance Criteria. Accessibility updates are under the feature/accessibility branch of repo. https://github.com/danielleboe/module-1-challenge
 
 ## User Story
 
@@ -38,3 +38,4 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
+
